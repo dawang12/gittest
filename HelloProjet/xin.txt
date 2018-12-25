@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 xinjia de \yigefdsfdsafafgdbvcxhn
+=======
+xinjia de \yige
+fsafdsafsdaf
+>>>>>>> eccd96547221f771775d9ee97a64c09876c19052
